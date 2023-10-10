@@ -14,3 +14,8 @@ Microsoft Power BI is a data visualization platform used primarily for business 
 - Power BI dashboards are more visually appealing, interactive and customizable than those in Excel.
 - Power BI is a more powerful tool than Excel in terms of comparison between tables, reports or data files.
 - Power BI is more user friendly and easy to use than Excel.
+
+The architecture of Power BI Service is divided into two sections: 
+
+- **Front End cluster-:** Front end interact with client & backend here most modeling visualization take place.
+- **Back End cluster-:** Back end consist of power query editor where we perform ETL operation on raw data.
