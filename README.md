@@ -19,3 +19,6 @@ The architecture of Power BI Service is divided into two sections:
 
 - **Front End cluster-:** Front end interact with client & backend here most modeling visualization take place.
 - **Back End cluster-:** Back end consist of power query editor where we perform ETL operation on raw data.
+
+### Database Normalization
+Database normalization is the process used to organize a database into tables. In a way that eliminates redundant data and improves data integrity. The basic idea is that each table should be about a specific topic.
